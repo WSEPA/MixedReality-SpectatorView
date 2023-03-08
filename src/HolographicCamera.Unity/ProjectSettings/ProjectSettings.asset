@@ -546,11 +546,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Microsoft.MixedReality.HolographicCamera
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: D:\MixedReality-SpectatorView\src\HolographicCamera.Unity\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: Microsoft
+  metroCertificateIssuer: Microsoft
+  metroCertificateNotAfter: 00d511515ecad901
   metroApplicationDescription: Application for providing camera position information
     to the SpectatorView compositor
   wsaImages: {}

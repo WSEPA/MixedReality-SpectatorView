@@ -17,8 +17,8 @@
 #include "CompositorShared.h"
 
 #include "IFrameProvider.h"
-#include "DeckLinkManager.h"
-#include "ElgatoFrameProvider.h"
+//#include "DeckLinkManager.h"
+//#include "ElgatoFrameProvider.h"
 
 namespace DX
 {

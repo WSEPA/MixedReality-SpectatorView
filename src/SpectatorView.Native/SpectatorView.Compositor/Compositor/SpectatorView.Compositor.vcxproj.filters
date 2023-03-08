@@ -27,12 +27,6 @@
     <ClInclude Include="CompositorInterface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="DeckLinkDevice.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="DeckLinkManager.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="VideoEncoder.h">
       <Filter>Header Files</Filter>
     </ClInclude>
@@ -43,12 +37,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="HologramQueue.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ElgatoFrameProvider.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ElgatoSampleCallback.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -62,22 +50,10 @@
     <ClCompile Include="CompositorInterface.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="DeckLinkDevice.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="DeckLinkManager.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="VideoEncoder.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="DirectoryHelper.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ElgatoFrameProvider.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ElgatoSampleCallback.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

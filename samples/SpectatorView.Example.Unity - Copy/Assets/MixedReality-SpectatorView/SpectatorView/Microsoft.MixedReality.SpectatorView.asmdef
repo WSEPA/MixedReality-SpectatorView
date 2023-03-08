@@ -1,0 +1,19 @@
+{
+    "name": "Microsoft.MixedReality.SpectatorView",
+    "rootNamespace": "",
+    "references": [
+        "Microsoft.MixedReality.PhotoCapture",
+        "Microsoft.MixedReality.SpatialAlignment",
+        "Unity.TextMeshPro",
+        "Unity.XR.ARFoundation"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
